@@ -163,6 +163,11 @@ ul {
     font-size: 18pt;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
+@media only screen and (max-width: 600px){
+  .a, a {
+    font-size: 12pt;
+  }
+ }
   
  a:hover {
     color: cornflowerblue;
